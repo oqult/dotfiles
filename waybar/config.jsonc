@@ -50,7 +50,7 @@
     // ChatGPT Launcher
     "custom/chatgpt": {
       "format": "  ",
-      "on-click": "/home/johnny/.config/waybar/chatgpt.sh",
+      "on-click": "/home/johnny/.config/waybar/ai.sh",
       "tooltip-format": "AI Support"
     },
     "keyboard-state": {
